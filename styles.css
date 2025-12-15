@@ -1,6 +1,6 @@
 body {
   background: rgb(226, 191, 144);
-  font-family: 'ＭＳ Ｐゴシック', 'MS PGothic', 'メイリオ', Meiryo, sans-serif;
+  font-family: 'ＭＳ Ｐゴシック', 'MS PGothic', 'メイリオ', Meiryo, sans-serif !important;
   margin: 0;
   padding: 20px;
 }
